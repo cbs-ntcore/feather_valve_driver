@@ -1,0 +1,4 @@
+silkscreen errors
+- no marking for +- on input
+  (ground is towards side of PCB with feather USB connector)
+- 16gp29 should be 16gp19
